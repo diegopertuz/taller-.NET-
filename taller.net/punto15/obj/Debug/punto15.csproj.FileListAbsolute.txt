@@ -1,0 +1,6 @@
+C:\Users\user7\Downloads\Desktop\taller.net\punto15\bin\Debug\punto15.exe.config
+C:\Users\user7\Downloads\Desktop\taller.net\punto15\bin\Debug\punto15.exe
+C:\Users\user7\Downloads\Desktop\taller.net\punto15\bin\Debug\punto15.pdb
+C:\Users\user7\Downloads\Desktop\taller.net\punto15\obj\Debug\punto15.exe
+C:\Users\user7\Downloads\Desktop\taller.net\punto15\obj\Debug\punto15.pdb
+C:\Users\user7\Downloads\Desktop\taller.net\punto15\obj\Debug\punto15.csprojResolveAssemblyReference.cache

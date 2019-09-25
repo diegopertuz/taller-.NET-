@@ -1,0 +1,6 @@
+C:\Users\user7\Downloads\Desktop\taller.net\punto10\obj\Debug\punto10.csprojResolveAssemblyReference.cache
+C:\Users\user7\Downloads\Desktop\taller.net\punto10\bin\Debug\punto10.exe.config
+C:\Users\user7\Downloads\Desktop\taller.net\punto10\bin\Debug\punto10.exe
+C:\Users\user7\Downloads\Desktop\taller.net\punto10\bin\Debug\punto10.pdb
+C:\Users\user7\Downloads\Desktop\taller.net\punto10\obj\Debug\punto10.exe
+C:\Users\user7\Downloads\Desktop\taller.net\punto10\obj\Debug\punto10.pdb
